@@ -1,0 +1,46 @@
+body{
+	background-color: #d9dbda;
+	margin-top: 150px;
+}
+h1{
+	font-family: Emblema One;
+	text-align: center;
+	color: #7d5964;
+	font-size: 50px;
+}
+
+.container{
+	background-color: #986c79;
+	font-family: Crimson Text;
+	border-radius: 30px;
+	text-align: center;
+	max-width: 600px;
+}
+h4{
+	font-size: 30px;
+}
+
+.btn{
+	background-color: #d9dbda;
+}
+.footer {
+    background-color: #7d848a;
+    color: black;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-weight: bold;
+}
+a {
+    text-decoration: none;
+    color: 
+
+#f7e6e4;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #ff5c8a;
+}
